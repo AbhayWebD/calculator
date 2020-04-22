@@ -24,7 +24,7 @@ body{
     border: none;
     font-size: 18px;
     text-align: right;
-    background: red;
+    background: transparent;
     color: rgb(255, 245, 245);
 }
 .calculator span{
